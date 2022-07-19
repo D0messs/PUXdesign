@@ -70,7 +70,7 @@ header {
 .top-container { height: 100%; }
 
 .top-image-background {
-  background-image: url(/img/top-image-background.png);
+  background-image: url(../img/top-image-background.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
